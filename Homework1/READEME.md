@@ -10,7 +10,8 @@ The first course assignment of Evolutionary Computing 01 in Spring 2022
 - environmental selection
 
 ## 2. please set the following components based on your own preferences:
-- the probabilities of crossover, mutation, elitsm
+- the probabilities of crossover and mutation
+- the proportion of elitsm
 - the size of population, the types of crossover and mutation
 - and etc.
 
@@ -36,7 +37,8 @@ The first course assignment of Evolutionary Computing 01 in Spring 2022
 - 环境选择。
 
 ## 2.请根据你自己的喜好来设置以下组件：
-- 交叉、变异、精英主义的概率；
+- 交叉、变异概率；
+- 精英主义比例
 - 群体的大小，交叉和变异的类型；
 - 等等。
 
