@@ -9,5 +9,5 @@
 4. Display the results with figures and tables    
 要求：用图和表格展示结果，可以利用PlatEMO，也可以自己使用其他的可视化方法。
 5. 15 minutes for each presentation (including Q&A)
-6. Groups of up to **4** students, and **6** groups for presentations
+
 
