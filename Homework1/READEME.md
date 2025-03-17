@@ -1,4 +1,4 @@
-# Homework1_EC_2024S
+# Homework1_EC
 The first course assignment of Evolutionary Computing 01 in Spring 2024
 
 # Requirements：
